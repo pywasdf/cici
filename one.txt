@@ -3,12 +3,8 @@ d2sfsdf2
 d2sfsdf2 
 s2dfsdfsd2 
 s2dfs dfs2
-<<<<<<< HEAD
 1
 2
 3
 4
-=======
 
-
->>>>>>> 4832e21bd7ce2ed8bf78d53cbba2dbd7e2a18652
